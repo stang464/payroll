@@ -12,9 +12,9 @@
 <body>
 
     <div class="sidenav shadow ">
-        <a href="#">About</a>
-        <a href="#">Services</a>
-        <a href="#">Clients</a>
+        <a href="#">dashbord</a>
+        <a href="#">ลางาน</a>
+        <a href="#">การเงิน</a>
         <a href="#">Contact</a>
     </div>
 
