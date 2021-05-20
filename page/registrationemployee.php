@@ -16,10 +16,10 @@
     include('../component/nevbar.php')
     ?>
     <div class='main'>
-        <div class=" mt-5">
+        <div class=" mt-3 ml-5 ">
             <div class="row">
-                
-                <div class='col-10 ml-4'>
+
+                <div class='col-sm-10'>
                     <div class="card">
                         <h5 class="card-header">ข้อมูลพนักงาน</h5>
                         <div class="card-body">
@@ -74,6 +74,30 @@
                             <div class="row">
                                 <div class="col-3">
                                     <div class="form-group">
+                                        <label>ตำแหน่ง</label>
+                                        <input type="text" class="form-control">
+                                    </div>
+                                </div>
+                                <div class="col-3">
+                                    <div class="form-group">
+                                        <label>ฝ่าย</label>
+                                        <input type="text" class="form-control">
+                                    </div>
+                                </div>
+                                <div class="col-3">
+                                    <div class="form-group">
+                                        <label>แผนก</label>
+                                        <input type="text" class="form-control">
+                                    </div>
+                                </div>
+                                <div class="col-2">
+                                    <div class="form-group">
+                                        <label>ประเภท</label>
+                                        <input type="text" class="form-control">
+                                    </div>
+                                </div>
+                                <div class="col-3">
+                                    <div class="form-group">
                                         <label>วัน/เดือน/ปีเกิด</label>
                                         <input type="date" class="form-control">
                                     </div>
@@ -114,9 +138,70 @@
                                         <input type="text" class="form-control">
                                     </div>
                                 </div>
-
+                                <div class="col-3">
+                                    <div class="form-group">
+                                        <label>Email</label>
+                                        <input email="text" class="form-control">
+                                    </div>
+                                </div>
+                                <div class="col-3">
+                                    <div class="form-group">
+                                        <label>เบอร์โทร</label>
+                                        <input type="phone" class="form-control">
+                                    </div>
+                                </div>
+                                <div class="col-3">
+                                    <div class='from-group'>
+                                        <label>ที่อยู่</label>
+                                        <input type="text" class="form-control">
+                                    </div>
+                                </div>
+                                <div class="col-2">
+                                    <div class='from-group'>
+                                        <label>ถนน</label>
+                                        <input type="text" class="form-control">
+                                    </div>
+                                </div>
+                                <div class="col-2">
+                                    <div class="from-group">
+                                        <label>ซอย</label>
+                                        <input type="text" class="form-control">
+                                    </div>
+                                </div>
+                                <div class="col-2">
+                                    <div class="from-group">
+                                        <label>อำเภอ</label>
+                                        <input type="text" class="form-control">
+                                    </div>
+                                </div>
+                                <div class="col-2">
+                                    <div class="from-group">
+                                        <label>จังหวัด</label>
+                                        <input type="text" class="form-control">
+                                    </div>
+                                </div>
+                                <div class="col-2">
+                                    <div class="from-group">
+                                        <label>รหัสไปรษณีย์</label>
+                                        <input type="text" class="form-control">
+                                    </div>
+                                </div>
                             </div>
                             <div class="row">
+                                    <div class="col-2">
+                                        <div class="from-group">
+                                            <label>User</label>
+                                            <input type="text" class="form-control">
+                                        </div>
+                                    </div>
+                                    <div class="col-2">
+                                        <div class="from-group">
+                                            <label>Password</label>
+                                            <input type="text" class="form-control">
+                                        </div>
+                                    </div>
+                            </div>
+                            <div class="row mt-2 ">
                                 <div class="col">
                                     <input type="submit" value="ยืนยัน" class="btn btn-success">
                                 </div>
