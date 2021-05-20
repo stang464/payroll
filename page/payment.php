@@ -18,14 +18,122 @@
     ?>
 
     <div class="main">
-        <div class='ml-1 mt-5 '>
+        <div class='ml-1 mt-5 container'>
             <div class="card">
-                <div class="col-12">
-                    <tr></tr>
+                <div class="row mt-3 ">
+                    <div class="col-5">
+                        <table class='table table-bordered '>
+                            <tbody>
+                                <tr>
+                                    <th>
+                                        รหัสพนักงาน
+                                    </th>
+                                    <th>
+                                        10510
+                                    </th>
+                                </tr>
+                                <tr>
+                                    <th>
+                                        ชื่อ
+                                    </th>
+                                    <th>
+                                        นายซัมบับเบ
+                                    </th>
+                                </tr>
+                                <tr>
+                                    <th>
+                                        ตำแหน่ง
+                                    </th>
+                                    <th>
+                                        หัวหน้า
+                                    </th>
+                                </tr>
+                                <tr>
+                                    <th>
+                                        เพศ
+                                    </th>
+                                    <th>
+                                        ชาย
+                                    </th>
+                                </tr>
+                                <tr>
+                                    <th>
+                                        ฝ่าย
+                                    </th>
+                                    <th>
+                                        เก็บกวาด
+                                    </th>
+                                </tr>
+                                <tr>
+                                    <th>
+                                        เริ่มทำงาน
+                                    </th>
+                                    <th>
+                                        05/05/2020
+                                    </th>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+
+                    <div class="col-4 mt-3 ">
+                        <table class='table table-bordered '>
+                            <tbody>
+                                <tr>
+                                    <th>
+                                        รหัสพนักงาน
+                                    </th>
+                                    <th>
+                                        10510
+                                    </th>
+                                </tr>
+                                <tr>
+                                    <th>
+                                        ชื่อ
+                                    </th>
+                                    <th>
+                                        นายซัมบับเบ
+                                    </th>
+                                </tr>
+                                <tr>
+                                    <th>
+                                        ตำแหน่ง
+                                    </th>
+                                    <th>
+                                        หัวหน้า
+                                    </th>
+                                </tr>
+                                <tr>
+                                    <th>
+                                        เพศ
+                                    </th>
+                                    <th>
+                                        ชาย
+                                    </th>
+                                </tr>
+                                <tr>
+                                    <th>
+                                        ฝ่าย
+                                    </th>
+                                    <th>
+                                        เก็บกวาด
+                                    </th>
+                                </tr>
+                                <tr>
+                                    <th>
+                                        เริ่มทำงาน
+                                    </th>
+                                    <th>
+                                        05/05/2020
+                                    </th>
+                                </tr>
+                            </tbody>
+                        </table>
+
+                    </div>
                 </div>
             </div>
         </div>
-    </div>
 
 </body>
 
