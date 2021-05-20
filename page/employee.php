@@ -12,7 +12,7 @@
     <?php include('../component/sidebar.php') ?>
 
     <main class='container'>
-        <h5>ALL Employee</h5>
+        <h5>Employees</h5>
         <div class="row">
             
         </div>
