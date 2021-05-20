@@ -68,7 +68,6 @@
                                         <td>011111</td>
                                         <td><button>จ่ายเงินเดือน</button><button>แก้ไขข้อมูล</button></td>
                                     </tr>
-
                                 </tbody>
                             </table>
                         </div>
