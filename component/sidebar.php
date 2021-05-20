@@ -13,6 +13,7 @@
 
     <div class="sidenav shadow ">
         <a href="#">dashbord</a>
+        <a href="#">Registration Employee</a>
         <a href="#">ลางาน</a>
         <a href="#">การเงิน</a>
         <a href="#">Contact</a>
