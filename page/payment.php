@@ -18,122 +18,138 @@
     ?>
 
     <div class="main">
-        <div class='ml-1 mt-5 container'>
+        <div class=' mt-3 container'>
+            <h5>งวดประจำเดือนพฤษภาคม 2564</h5>
             <div class="card">
-                <div class="row mt-3 ">
-                    <div class="col-5">
-                        <table class='table table-bordered '>
+
+                <div class="row mt-3 ml-1 mr-1">
+
+                    <div class="col-6">
+                        <table class='table table-bordered'>
                             <tbody>
                                 <tr>
-                                    <th>
-                                        รหัสพนักงาน
-                                    </th>
-                                    <th>
-                                        10510
-                                    </th>
+                                    <th>รหัสพนักงาน</th>
+                                    <th>10510</th>
                                 </tr>
                                 <tr>
-                                    <th>
-                                        ชื่อ
-                                    </th>
-                                    <th>
-                                        นายซัมบับเบ
-                                    </th>
+                                    <th> ชื่อ</th>
+                                    <th>นายซัมบับเบ</th>
                                 </tr>
                                 <tr>
-                                    <th>
-                                        ตำแหน่ง
-                                    </th>
-                                    <th>
-                                        หัวหน้า
-                                    </th>
+                                    <th>ตำแหน่ง</th>
+                                    <th>หัวหน้า</th>
                                 </tr>
                                 <tr>
-                                    <th>
-                                        เพศ
-                                    </th>
-                                    <th>
-                                        ชาย
-                                    </th>
+                                    <th>เพศ</th>
+                                    <th>ชาย</th>
                                 </tr>
                                 <tr>
-                                    <th>
-                                        ฝ่าย
-                                    </th>
-                                    <th>
-                                        เก็บกวาด
-                                    </th>
+                                    <th>ฝ่าย</th>
+                                    <th>เก็บกวาด</th>
                                 </tr>
                                 <tr>
-                                    <th>
-                                        เริ่มทำงาน
-                                    </th>
-                                    <th>
-                                        05/05/2020
-                                    </th>
+                                    <th>เริ่มทำงาน</th>
+                                    <th>05/05/2020</th>
                                 </tr>
                             </tbody>
                         </table>
                     </div>
-
-                    <div class="col-4 mt-3 ">
-                        <table class='table table-bordered '>
+                    <div class="col-6">
+                        <table class='table table-bordered'>
                             <tbody>
                                 <tr>
-                                    <th>
-                                        รหัสพนักงาน
-                                    </th>
-                                    <th>
-                                        10510
-                                    </th>
+                                    <th>ธนาคาร</th>
+                                    <th>กสิกรไทย</th>
                                 </tr>
                                 <tr>
-                                    <th>
-                                        ชื่อ
-                                    </th>
-                                    <th>
-                                        นายซัมบับเบ
-                                    </th>
+                                    <th>เลขบัชชี</th>
+                                    <th>07258458755</th>
                                 </tr>
                                 <tr>
-                                    <th>
-                                        ตำแหน่ง
-                                    </th>
-                                    <th>
-                                        หัวหน้า
-                                    </th>
+                                    <th>ฐานเงินเดือน</th>
+                                    <th>25,000</th>
                                 </tr>
                                 <tr>
-                                    <th>
-                                        เพศ
-                                    </th>
-                                    <th>
-                                        ชาย
-                                    </th>
+                                    <th>ขาด</th>
+                                    <th>3/1000฿</th>
                                 </tr>
                                 <tr>
-                                    <th>
-                                        ฝ่าย
-                                    </th>
-                                    <th>
-                                        เก็บกวาด
-                                    </th>
+                                    <th>overtime</th>
+                                    <th>2 hr./ 60฿</th>
                                 </tr>
                                 <tr>
-                                    <th>
-                                        เริ่มทำงาน
-                                    </th>
-                                    <th>
-                                        05/05/2020
-                                    </th>
+                                    <th>มาสาย</th>
+                                    <th>1 hr./ 142฿</th>
                                 </tr>
+                                <tr>
+                                    <th>หักประกันสังคม</th>
+                                    <th>1000฿</th>
+                                </tr>
+
                             </tbody>
                         </table>
-
                     </div>
                 </div>
             </div>
+
+            <table class="table table-bordered mt-3">
+                <thead>
+                    <tr class="table-active">
+                        <th>id</th>
+                        <th>วันที่</th>
+                        <th>รายการ</th>
+                        <th>ราคา</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr class="table-success">
+                        <th>159</th>
+                        <th>11/05/64</th>
+                        <th>เบิกค่ารถ</th>
+                        <th>200</th>
+                    </tr>
+                    <tr class="table-danger">
+                        <th>184</th>
+                        <th>18/05/64</th>
+                        <th>ทำกล้องพัง</th>
+                        <th>-12500</th>
+                    </tr>
+                </tbody>
+            </table>
+            <div class="col-6">
+                <table class="table table-bordered mt-3">
+
+
+                    
+                        <tbody>
+                            <tr class="table-success">
+                                <th>รวมที่ได้รับ</th>
+                                <th>27,060</th>
+
+                            </tr>
+                            <tr class="table-danger">
+                                <th>รวมที่หัก</th>
+                                <th>16642</th>
+                            </tr>
+                            <tr >
+                                <th class="table-primary">รวมจ่าย</th>
+                                <th class="table-active">10,418</th>
+                            </tr>
+                        </tbody>
+                    </table>
+            </div>
+
+           
+            <div class="row mb-5">
+                <div class="col-auto ml-auto">
+                    <button class="btn btn-success">นำจ่าย</button>
+                </div>
+            </div>
         </div>
+
+
+
+    </div>
 
 </body>
 
