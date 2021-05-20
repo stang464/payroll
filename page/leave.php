@@ -6,6 +6,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link href="../css/bootstrap/bootstrap.css" rel="stylesheet">
+
+    <link href="../css/index.css" rel="stylesheet">
 </head>
 
 <body>
@@ -18,7 +21,7 @@
     <div class='main'>
         <div class=" mt-5">
             <div class="row">
-                
+
                 <div class='col-5'>
                     <div class="card">
                         <h5 class="card-header">ลางาน</h5>
@@ -84,14 +87,14 @@
                                         <th>สถานะ</th>
                                     </tr>
                                 </thead>
-                                 <tbody>
-                                     <tr>
-                                         <th>1</th>
-                                         <th>ลาไปบวช</th>
-                                         <th>อนุมัติ</th>
-                                     </tr>
-                                 </tbody>
-                                
+                                <tbody>
+                                    <tr>
+                                        <th>1</th>
+                                        <th>ลาไปบวช</th>
+                                        <th>อนุมัติ</th>
+                                    </tr>
+                                </tbody>
+
                             </table>
                         </div>
                     </div>
