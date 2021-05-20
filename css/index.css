@@ -30,17 +30,18 @@
   
   /* Style page content */
 .main {
-    margin-left: 200px; /* Same as the width of the sidebar */
+    margin-left: 200px;
     padding: 0px 10px;
     background-color: #ebebeb;
-    
+    /* position: fixed; */
     height: 100%;
-    width: 100%;
+    width: auto;
     
     
   }
 .nevbar{
     margin-left: 200px;
+    
     /* height: 60px; */
     
     
