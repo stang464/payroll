@@ -46,7 +46,7 @@
                                         <td>เล้ง</td>
                                         <td>เล้ง@email.com</td>
                                         <td>011111</td>
-                                        <td><button>จ่ายเงินเดือน</button><button>แก้ไขข้อมูล</button></td>
+                                        <td><a href="payment.php" class="btn btn-sm btn-success">จ่ายเงินเดือน</a><a class='btn btn-sm btn-warning'>แก้ไขข้อมูล</a></td>
                                     </tr>
 
                                 </tbody>
@@ -56,7 +56,7 @@
                                         <td>บุ๊ค</td>
                                         <td>บุ๊ค@email.com</td>
                                         <td>011111</td>
-                                        <td><button>จ่ายเงินเดือน</button><button>แก้ไขข้อมูล</button></td>
+                                        <td><a href="payment.php" class="btn btn-sm btn-success">จ่ายเงินเดือน</a><a class='btn btn-sm btn-warning'>แก้ไขข้อมูล</a></td>
                                     </tr>
 
                                 </tbody>
@@ -66,7 +66,7 @@
                                         <td>ตัง</td>
                                         <td>ตัง@email.com</td>
                                         <td>011111</td>
-                                        <td><button>จ่ายเงินเดือน</button><button>แก้ไขข้อมูล</button></td>
+                                        <td><a href="payment.php" class="btn btn-sm btn-success">จ่ายเงินเดือน</a><a class='btn btn-sm btn-warning'>แก้ไขข้อมูล</a></td>
                                     </tr>
                                 </tbody>
                             </table>

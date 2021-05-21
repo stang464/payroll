@@ -14,14 +14,16 @@
     <div class="sidenav shadow ">
         <a href="#">dashbord</a>
         <a href="../page/registrationemployee.php">Registration Employee</a>
-        <a href="../page/confirmleave.php">อนุมัติลางาน</a>
-        <a href="../page/leave.php">ลางาน</a>
         <a href="../page/withdraw.php">เบิกเงิน</a>
+        <a href="../page/confirmleave.php">อนุมัติลางาน</a>
+        <a href="../page/approve_withdraw.php">อนุมัติเบิกเงิน</a>
+        <a href="../page/leave.php">ลางาน</a>
+        
         <a href="../page/salarylist.php">อนุมัติจ่ายเงินเดือน</a>
         <a href="../page/employee.php">จัดการพนักงาน</a>
         <a href="#">Contact</a>
     </div>
-    
+
     <script src="../css/js/bootstrap.js"></script>
     <script src="../css/js/popper.js"></script>
     <script src="../css/js/slim.js"></script>

@@ -79,7 +79,7 @@
                                 </tr>
                                 <tr>
                                     <th>มาสาย</th>
-                                    <th>1 hr./ 142฿</th>
+                                    <th><input type="text" value="1"> hr./ 142฿</th>
                                 </tr>
                                 <tr>
                                     <th>หักประกันสังคม</th>
@@ -89,8 +89,24 @@
                             </tbody>
                         </table>
                     </div>
+
                 </div>
+
+
             </div>
+
+            <div class="row">
+                <div class="ml-auto mt-1">
+                    <div class="col">
+                        <a href="" class='btn btn-success'>บันทึก</a>
+                    </div>
+
+                </div>
+
+
+            </div>
+
+            <hr>
             <a href="" class="btn btn-success mt-3">เพิ่มรายการ</a>
             <table class="table table-bordered ">
                 <thead>
@@ -123,26 +139,26 @@
                 <table class="table table-bordered mt-3">
 
 
-                    
-                        <tbody>
-                            <tr class="table-success">
-                                <th>รวมที่ได้รับ</th>
-                                <th>27,060</th>
 
-                            </tr>
-                            <tr class="table-danger">
-                                <th>รวมที่หัก</th>
-                                <th>16642</th>
-                            </tr>
-                            <tr >
-                                <th class="table-primary">รวมจ่าย</th>
-                                <th class="table-active">10,418</th>
-                            </tr>
-                        </tbody>
-                    </table>
+                    <tbody>
+                        <tr class="table-success">
+                            <th>รวมที่ได้รับ</th>
+                            <th>27,060</th>
+
+                        </tr>
+                        <tr class="table-danger">
+                            <th>รวมที่หัก</th>
+                            <th>16642</th>
+                        </tr>
+                        <tr>
+                            <th class="table-primary">รวมจ่าย</th>
+                            <th class="table-active">10,418</th>
+                        </tr>
+                    </tbody>
+                </table>
             </div>
 
-           
+
             <div class="row mb-5">
                 <div class="col-auto ml-auto">
                     <button class="btn btn-success">บันทึก</button>
