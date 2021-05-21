@@ -1,3 +1,5 @@
+
+
 /* The sidebar menu */
 .sidenav {
     height: 100%; /* Full-height: remove this if you want "auto" height */
@@ -9,11 +11,7 @@
     background-color: rgb(255, 255, 255); /* Black */
     overflow-x: hidden; /* Disable horizontal scroll */
     padding-top: 30px;
-    
-    
-    
   }
-  
   /* The navigation menu links */
 .sidenav a {
     padding: 6px 8px 6px 16px;
@@ -31,7 +29,6 @@
   /* Style page content */
 .main {
     margin-left: 200px;
-    padding: 0px 10px;
     background-color: #ebebeb;
     /* position: fixed; */
     height: 100%;
@@ -41,14 +38,10 @@
   }
 .nevbar{
     margin-left: 200px;
-    
     /* height: 60px; */
-    
-    
   }
 
 .dropbtn {
-
     padding: 16px;
     font-size: 16px;
     border: none;
@@ -87,3 +80,5 @@
     .sidenav {padding-top: 15px;}
     .sidenav a {font-size: 18px;}
   } */
+
+ 

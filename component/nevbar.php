@@ -32,8 +32,6 @@
     </nav>
 
 </body>
-
-
 <script src="../css/js/bootstrap.js"></script>
 <script src="../css/js/popper.js"></script>
 <script src="../css/js/slim.js"></script>
