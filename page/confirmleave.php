@@ -25,7 +25,7 @@
                     <h5 class="card-header">อนุมัติวันลา</h5>
                         <div class="card">
                             <div class="card-body">
-                                <table class="table table-bordered text-center">
+                                <table class="table table-bordered text-center text-sm">
                                     <thead>
                                         <tr>
                                             <th>ที่</th>
@@ -49,7 +49,8 @@
                                             <th>3</th>
                                             <th>วันนี้</th>
                                             <th>มะรืน</th>
-                                                <th><button type="button" class="btn btn-danger">บ่</button>
+                                            <th>
+                                                <button type="button" class="btn btn-danger">บ่</button>
                                                 <button type="button" class="btn btn-success">ไปๆๆๆ</button>
                                             </th>
                                             
