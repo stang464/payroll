@@ -65,7 +65,7 @@
                                 <th>123</th>
                                 <th>ทองดี ฟันสะอาด</th>
                                 <th>18000</th>
-                                <th><a href="payment.php" class="btn btn-primary">รายละเอียด</a><button class="btn btn-danger">ลบ</button></th>
+                                <th><a href="editpayment.php" class="btn btn-primary">รายละเอียด</a><button class="btn btn-danger">ลบ</button></th>
                             </tr>
                             <tr>
                                 <th>12324</th>

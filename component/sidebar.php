@@ -13,10 +13,11 @@
 
     <div class="sidenav shadow ">
         <a href="#">dashbord</a>
-        <a href="#">Registration Employee</a>
-        <a href="#">อนุมัติ</a>
-        <a href="#">ลางาน</a>
-        <a href="#">การเงิน</a>
+        <a href="../page/registrationemployee.php">Registration Employee</a>
+        <a href="../page/confirmleave.php">อนุมัติลางาน</a>
+        <a href="../page/leave.php">ลางาน</a>
+        <a href="../page/salarylist.php">อนุมัติจ่ายเงินเดือน</a>
+        <a href="../page/employee.php">จัดการพนักงาน</a>
         <a href="#">Contact</a>
     </div>
 
