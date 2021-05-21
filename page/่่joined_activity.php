@@ -21,36 +21,36 @@
     <div class='main'>
         <div class="row ml-5 mt-5">
             <div class="col-11 ml-2">
-                <h5 class="card-header">ประวัติ</h5>
+                <h5 class="card-header">ประวัติการเข้าร่วม</h5>
                 <div class="card">
                     <div class="card-body">
                         <table class="table">
                             <thead>
                                 <tr>
-                                    <th scope="col">รหัส</th>
-                                    <th scope="col">รายชื่อพัสดุ</th>
-                                    <th scope="col">ประเภท</th>
-                                    <th scope="col">ชื่อผู้ทำรายการ</th>
-                                    <th scope="col">หมายเหตุ</th>
+                                    <th scope="col">วันที่</th>
+                                    <th scope="col">รายการ</th>
+                                    <th scope="col">จำนวน/ชั่วโมง</th>
+                                    <th scope="col">ชื่อผู้เข้าร่วม</th>
+                                    <th scope="col">ฝ่าย/แผนก</th>
                                     <th scope="col">สถานะ</th>
                                 </tr>
                             </thead>
                             <tbody>
                                 <tr>
-                                    <th scope="row">E0004</th>
-                                    <td>กล้อง Blackmagic Pocket Cinema Camera 6K Pro</td>
-                                    <td>อุปกรณ์อิเล็กทรอนิก</td>
-                                    <td>เกียวเจียว</td>
-                                    <td>ฝาปิดกล้องหาย</td>
-                                    <td>จัดเก็บ</td>
+                                    <th scope="row">22/11/64</th>
+                                    <td>กระจงควรปลูกให้ห่างจากตัวบ้าน</td></td>
+                                    <td>8</td>
+                                    <td>บาบัมบอย</td>
+                                    <td>dev</td>
+                                    <td>เสร็จสิ้น</td>
                                 </tr>
                                 <tr>
-                                    <th scope="row">E0007</th>
-                                    <td>MacBook Air M1</td>
-                                    <td>อุปกรณ์อิเล็กทรอนิก</td>
-                                    <td>จูจู้</td>
-                                    <td>ไม่มีอะไรเสียหาย</td>
-                                    <td>ยืม</td>
+                                    <th scope="row">15/05/65</th>
+                                    <td>ดอยสูงขนาดไหนไม่ขายไม่ขาดทุน?</td>
+                                    <td>6</td>
+                                    <td>สลัมบอย</td>
+                                    <td>finance</td>
+                                    <td>ยกเลิก</td>
                                 </tr>
                             </tbody>
                         </table>

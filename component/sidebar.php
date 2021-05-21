@@ -21,6 +21,10 @@
         
         <a href="../page/salarylist.php">อนุมัติจ่ายเงินเดือน</a>
         <a href="../page/employee.php">จัดการพนักงาน</a>
+        <a href="../page/borrow.php">ยืมพัสดุ</a>
+        <a href="../page/stocks.php">รายการพัสดุ</a>
+        <a href="../page/add_activity.php">เพิ่มรายการจัดอบรมพนักงาน</a>
+        <a href="../page/่่joined_activity.php">ประวัติการเข้าร่วม</a>
         <a href="#">Contact</a>
     </div>
 
