@@ -24,30 +24,19 @@
 
                 <div class='col-5'>
                     <div class="card">
-                        <h5 class="card-header">ลางาน</h5>
+                        <h5 class="card-header">ขอเบิก</h5>
                         <div class="card-body">
                             <div class="row">
                                 <div class="col-12">
                                     <div class="form-group">
                                         <label>หัวข้อ</label>
-                                        <input type="email" class="form-control">
+                                        <input type="text" class="form-control">
                                     </div>
                                 </div>
                             </div>
-                            <div class="row">
-                                <div class="col-6">
-                                    <div class="form-group">
-                                        <label>ตั้งแต่</label>
-                                        <input type="date" class="form-control">
-                                    </div>
-                                </div>
-                                <div class="col-6">
-                                    <div class="form-group">
-                                        <label>ถึง</label>
-                                        <input type="date" class="form-control">
-                                    </div>
-                                </div>
-                            </div>
+
+
+
                             <div class="row">
                                 <div class="col-12">
                                     <div>
@@ -56,20 +45,38 @@
                                     </div>
                                 </div>
                             </div>
-
-                            
                             <div class="row">
                                 <div class="col-12">
                                     <div class="form-group">
                                         <label for="">ประเภท</label>
                                         <select class="form-control" id="exampleFormControlSelect1">
-                                            <option>ลากิจ</option>
-                                            <option>ลาป่วย</option>
+                                            <option>เบิกล่วงหน้า</option>
+                                            <option>เบิกค่าเดินทาง</option>
+                                            <option>เบิกค่ารักษา</option>
+                                            <option>อุปกรณ์</option>
+                                            <option>อื่นๆ</option>
                                         </select>
                                     </div>
                                 </div>
                             </div>
+                            <div class="row ">
+
+                                <div class="col-12">
+                                    <label for="">จำนวน</label>
+                                    <input type="text" name="" id="" class="form-control">
+                                </div>
+
+                            </div>
                             <div class="row">
+                                <div class="col-12">
+                                    <div class="from-group">
+                                        <label for="">แนบหลักฐาน</label>
+                                        <input type="file" name="" id="" class="form-control-file">
+                                    </div>
+                                </div>
+
+                            </div>
+                            <div class="row mt-3">
                                 <div class="col">
                                     <input type="submit" value="ยืนยัน" class="btn btn-success">
                                 </div>
@@ -85,6 +92,7 @@
                                 <thead>
                                     <tr>
                                         <th>ID</th>
+                                        <th>วันที่</th>
                                         <th>หัวข้อ</th>
                                         <th>สถานะ</th>
                                     </tr>
@@ -92,8 +100,9 @@
                                 <tbody>
                                     <tr>
                                         <th>1</th>
-                                        <th>ลาไปบวช</th>
-                                        <th>อนุมัติ</th>
+                                        <th>วันที่</th>
+                                        <th>เบิกค่ารถ</th>
+                                        <th>รออนุมัติ</th>
                                     </tr>
                                 </tbody>
 
