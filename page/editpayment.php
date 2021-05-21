@@ -71,11 +71,11 @@
                                 </tr>
                                 <tr>
                                     <th>ขาด</th>
-                                    <th>3/1000฿</th>
+                                    <th><input type="text" value="3"> /1000฿</th>
                                 </tr>
                                 <tr>
                                     <th>overtime</th>
-                                    <th>2 hr./ 60฿</th>
+                                    <th><input type="text" value="2"> hr./ 60฿</th>
                                 </tr>
                                 <tr>
                                     <th>มาสาย</th>
@@ -91,14 +91,15 @@
                     </div>
                 </div>
             </div>
-
-            <table class="table table-bordered mt-3">
+            <a href="" class="btn btn-success mt-3">เพิ่มรายการ</a>
+            <table class="table table-bordered ">
                 <thead>
                     <tr class="table-active">
                         <th>id</th>
                         <th>วันที่</th>
                         <th>รายการ</th>
                         <th>ราคา</th>
+                        <th>จัดการ</th>
                     </tr>
                 </thead>
                 <tbody>
@@ -107,12 +108,14 @@
                         <th>11/05/64</th>
                         <th>เบิกค่ารถ</th>
                         <th>200</th>
+                        <th><button class="btn btn-sm btn-warning">แก้ไข</button><button class="btn btn-sm btn-danger">ลบ</button></th>
                     </tr>
                     <tr class="table-danger">
                         <th>184</th>
                         <th>18/05/64</th>
                         <th>ทำกล้องพัง</th>
                         <th>-12500</th>
+                        <th><button class="btn btn-sm btn-warning">แก้ไข</button><button class="btn btn-sm btn-danger">ลบ</button></th>
                     </tr>
                 </tbody>
             </table>
@@ -142,7 +145,7 @@
            
             <div class="row mb-5">
                 <div class="col-auto ml-auto">
-                    <button class="btn btn-success">นำจ่าย</button>
+                    <button class="btn btn-success">บันทึก</button>
                 </div>
             </div>
         </div>
