@@ -29,10 +29,10 @@
                     </div>
                 </div>
             </div>
-        </div>
-        </form>
             <a class="btn btn-success" href="../page/PMproject.php">ย้อนกลับ</a>
+        </div>
     </div>
+    
 
 
     <script src="../css/js/bootstrap.js"></script>

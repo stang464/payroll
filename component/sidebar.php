@@ -16,7 +16,7 @@
             <ul class="nav flex-column">
                 <li class="nav-item">
                     <a class=" nav-link active text-dark" href="../page/index.php">
-                        Dashboard 
+                        Dashboard
                     </a>
                 </li>
                 <li class="nav-item">
@@ -110,4 +110,4 @@
 
 <style>
 
-</style>
+</style>    

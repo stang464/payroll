@@ -77,8 +77,9 @@
                 </div>
 
             </form>
-            <div class="btn btn-success float-right ml-5">Send</div>
-            <div class="btn btn-dark float-right">Clear</div>
+            <a class="btn btn-secondary" href="../page/PMproject.php">ย้อนกลับ</a>
+            <div class="btn btn-success float-right ml-5">ส่ง</div>
+            <div class="btn btn-dark float-right">ล้าง</div>
         </div>
     </div>
 
