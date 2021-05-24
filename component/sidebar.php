@@ -12,19 +12,21 @@
 <body>
 
     <div class="sidenav shadow ">
-        <a href="#">dashbord</a>
+        <a href="../page/index.php">dashbord</a>
         <a href="../page/registrationemployee.php">Registration Employee</a>
         <a href="../page/withdraw.php">เบิกเงิน</a>
         <a href="../page/confirmleave.php">อนุมัติลางาน</a>
         <a href="../page/approve_withdraw.php">อนุมัติเบิกเงิน</a>
         <a href="../page/leave.php">ลางาน</a>
-        
+
         <a href="../page/salarylist.php">อนุมัติจ่ายเงินเดือน</a>
         <a href="../page/employee.php">จัดการพนักงาน</a>
         <a href="../page/borrow.php">ยืมพัสดุ</a>
         <a href="../page/stocks.php">รายการพัสดุ</a>
         <a href="../page/add_activity.php">เพิ่มรายการจัดอบรมพนักงาน</a>
-        <a href="../page/่่joined_activity.php">ประวัติการเข้าร่วม</a>
+        <a href="../page/่joined_activity.php">ประวัติการเข้าร่วม</a>
+        <a href="../page/่edit_employee.php">แก้ไขข้อมูลพนักงาน</a>
+        <a href="../page/่edit_stocks.php">แก้ไขคลังพัสดุ</a>
         <a href="#">Contact</a>
     </div>
 

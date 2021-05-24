@@ -19,9 +19,9 @@
     include('../component/nevbar.php')
     ?>
     <div class='main'>
-        <div class=" mt-3 ">
+        <div class=" mt-3 ml-5">
             <div class="row">
-                <div class='col-sm-10'>
+                <div class='col-sm-11'>
                     <div class="card">
                         <h5 class="card-header">ข้อมูลพนักงาน</h5>
                         <div class="card-body">
