@@ -44,7 +44,7 @@
                                                     <td>บา โบซ่า</td>
                                                     <td>อุบัติเหตุ</td>
                                                     <td>21/05/64</td>
-                                                    <td>รถล้มหน้าสำนักงาน</td>/
+                                                    <td>รถล้มหน้าสำนักงาน</td>
                                                     <td>
                                                         <button type="button" class="btn btn-success">ยืนยัน</button>
                                                         <button type="button" class="btn btn-danger">ลบ</button>
@@ -59,7 +59,7 @@
                                                     <td>
                                                         <button type="button" class="btn btn-success">ยืนยัน</button>
                                                         <button type="button" class="btn btn-danger">ลบ</button>
-                                                    </td>>
+                                                    </td>
                                                 </tr>
                                             </tbody>
                                         </table>
