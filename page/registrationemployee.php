@@ -22,7 +22,7 @@
             <div class="col-2">
                 <?php include('../component/sidebar.php') ?>
             </div>
-            <main role="main" class="col-md-10 ml-sm-auto col-lg-10 px-md-4">
+            <main role="main" class="col-md-10 ml-sm-auto col-lg-10 px-md-4 mb-3">
                 <div class="card">
                     <div class="col-auto mt-2">
                         <h5 class="card-header">ข้อมูลพนักงาน</h5>

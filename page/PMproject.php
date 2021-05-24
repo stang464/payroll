@@ -21,7 +21,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-12 mt-auto">
-                    <div class="btn btn-success"><a href="#"></a> Add Project</div>
+                    <div class="btn btn-success"><a href="#"></a>Add Project</div>
                 </div>
                 <table class="table table-bordered mt-4">
         <thead>
