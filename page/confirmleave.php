@@ -54,10 +54,8 @@
                                                 <button type="button" class="btn btn-danger">บ่</button>
                                                 <button type="button" class="btn btn-success">ไปเตอะ</button>
                                             </td>
-
                                         </tr>
                                     </tbody>
-
                                 </table>
                             </div>
                         </div>
