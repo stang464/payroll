@@ -15,14 +15,17 @@
     <?php
     include('../component/nevbar.php')
     ?>
-    <?php
-    include('../component/sidebar.php')
-    ?>
-    <div class='main'>
-        <div class=" mt-5 ml-2">
+    <div class="container-fluid">
 
-                <div class="col-12">
-                    <h5 class="card-header">อนุมัติวันลา</h5>
+        <h5>Employees</h5>
+        <div class="row">
+            <div class="col-2">
+                <?php include('../component/sidebar.php') ?>
+            </div>
+            <main role="main" class="col-md-10 ml-sm-auto col-lg-10 px-md-4">
+                <div class="card">
+                    <div class="col-auto mt-2">
+                        <h5 class="card-header">อนุมัติวันลา</h5>
                         <div class="card">
                             <div class="card-body">
                                 <table class="table table-bordered text-center text-sm">
@@ -53,7 +56,7 @@
                                                 <button type="button" class="btn btn-danger">บ่</button>
                                                 <button type="button" class="btn btn-success">ไปเตอะ</button>
                                             </td>
-                                            
+
                                         </tr>
                                     </tbody>
 
@@ -65,8 +68,8 @@
                     <div class="col-1"></div>
 
                 </div>
-            </div>
         </div>
+    </div>
     <script src="../css/js/bootstrap.js"></script>
     <script src="../css/js/popper.js"></script>
     <script src="../css/js/slim.js"></script>
