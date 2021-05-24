@@ -60,7 +60,7 @@
                             </div>
 
                             <div class="row">
-                                <div class="col-10 ml-5 mt-5">
+                                <div class="col-12  mt-5">
                                     <h5 class="card-header">ประวัติ</h5>
                                     <div class="card">
                                         <div class="card-body">
