@@ -35,14 +35,14 @@
                 <th scope="row">1</th>
                 <td>Hello project</td>
                 <td>17/01/65-18/02/66</td>
-                <td><div class="btn btn-warning"><a href="../page/report.php">Send</a></div></td>
+                <td><a class="btn btn-warning" href="../page/report.php">Send</a></td>
                 <td><div class="btn btn-success"><a href=""></a> Detail</div></td>
             </tr>
             <tr>
                 <th scope="row">2</th>
                 <td>Arigato</td>
                 <td>5/07/66-18/02/67</td>
-                <td><div class="btn btn-warning"><a href="../page/report.php">Send</a></div></td>
+                <td><a class="btn btn-warning" href="../page/report.php">Send</a></td>
                 <td><div class="btn btn-success">Detail</div></td>
             </tr>
         </tbody>

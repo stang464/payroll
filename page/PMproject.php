@@ -21,7 +21,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-12 mt-auto">
-                    <div class="btn btn-success"><a href="#"></a>Add Project</div>
+                    <a class="btn btn-success" href="../page/Addproject.php">Add Project</a>
                 </div>
                 <table class="table table-bordered mt-4">
         <thead>
@@ -38,15 +38,15 @@
                 <th scope="row">1</th>
                 <td>Hello project</td>
                 <td>17/01/65-18/02/66</td>
-                <td><div class="btn btn-warning">See</div></td>
-                <td><div class="btn btn-success">Detail</div></td>
+                <td><a class="btn btn-warning" href="../page/reported.php">See</a></td>
+                <td><a class="btn btn-success" href="../page/detailProject.php">Detail</a></td>
             </tr>
             <tr>
                 <th scope="row">2</th>
                 <td>Arigato</td>
                 <td>5/07/66-18/02/67</td>
-                <td><div class="btn btn-warning">See</div></td>
-                <td><div class="btn btn-success">Detail</div></td>
+                <td><a class="btn btn-warning" href="../page/reported.php">See</a></td>
+                <td><a class="btn btn-success" href="../page/detailProject.php">Detail</a></td>
             </tr>
         </tbody>
 </table>
