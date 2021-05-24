@@ -7,28 +7,21 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link href="../css/bootstrap/bootstrap.css" rel="stylesheet">
-    <link href="../css/index.css" rel="stylesheet">
+    <link href="../css/layout.css" rel="stylesheet">
 </head>
 
 <body>
-
-    <nav class="nevbar nevbar-light bg-light shadow ">
-
-        <div class="mr-5">
-            <div class="row ">
-                <div class="dropdown ml-auto mt-1 mb-1">
-                    <img src="https://www.w3schools.com/howto/img_avatar.png" class="avatar">
-                    <button class="dropbtn bg-light">Josh</button>
-                    <div class="dropdown-content">
-                        <a href="#">Logout</a>
-                    </div>
-                </div>
+    <nav class="navbar navbar-dark sticky-top bg-secondary flex-md-nowrap p-0 shadow">
+        <a class="navbar-brand col-md-3 col-lg-2 mr-0 px-3 text-dark" href="#">Company name</a>
+        <ul class="mr-5 mt-1 px-3 ">
+            <div >
+                <img src="https://www.w3schools.com/howto/img_avatar.png" alt="" class="avatar">
+                <span class="text-light">จำเลิง</span>
             </div>
 
 
-        </div>
-        </div>
-
+            </div>
+        </ul>
     </nav>
 
 </body>
@@ -45,6 +38,4 @@
         height: 50px;
         border-radius: 50%;
     }
-
-    
 </style>

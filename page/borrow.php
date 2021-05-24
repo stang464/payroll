@@ -13,10 +13,8 @@
 
 <body>
     <?php
-    include('../component/sidebar.php')
-    ?>
-    <?php
-    include('../component/nevbar.php')
+    include('../component/sidebar.php');
+    include('../component/nevbar.php');
     ?>
     <div class='main'>
         <div class=" mt-5 ml-5 ">
