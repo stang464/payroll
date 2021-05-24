@@ -90,7 +90,7 @@
                                                 <td>
                                                     <button type="button" class="btn btn-warning">แก้ไข</button>
                                                     <button type="button" class="btn btn-danger">ลบ</button>
-                                                </td>>
+                                                </td>
                                             </tr>
                                         </tbody>
                                     </table>
