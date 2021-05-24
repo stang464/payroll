@@ -16,16 +16,17 @@
     include('../component/nevbar.php')
     ?>
     <div class="container-fluid">
-
-        <h5>Employees</h5>
         <div class="row">
             <div class="col-2">
                 <?php include('../component/sidebar.php') ?>
             </div>
-            <main role="main" class="col-md-10 ml-sm-auto col-lg-10 px-md-4">
+
+            <main role="main" class="col-md-10 ml-sm-auto col-lg-10 px-md-4 mt-3">
+                <h3>อนุมัติลางาน</h3>
+                <hr>
+
                 <div class="card">
                     <div class="col-auto mt-2">
-                        <h5 class="card-header">อนุมัติวันลา</h5>
                         <div class="card">
                             <div class="card-body">
                                 <table class="table table-bordered text-center text-sm">
@@ -56,17 +57,12 @@
                                                 <button type="button" class="btn btn-danger">บ่</button>
                                                 <button type="button" class="btn btn-success">ไปเตอะ</button>
                                             </td>
-
                                         </tr>
                                     </tbody>
-
                                 </table>
                             </div>
                         </div>
                     </div>
-
-                    <div class="col-1"></div>
-
                 </div>
         </div>
     </div>

@@ -60,6 +60,12 @@
                 </li>
                 <li class="nev-item">
                     <a class=" nav-link active text-dark" href="../page/joined_activity.php">ประวัติการเข้าร่วม</a>
+                <li class="nev-item">
+                    <a class=" nav-link active text-dark" href="../page/healthinsurance.php">เบิกประกัน</a>
+                </li>
+                <li class="nev-item">
+                    <a class=" nav-link active text-dark" href="../page/approve_healthisurance.php">อนุมัติประกัน</a>
+                </li>
                 </li>
                 <li class="nev-item">
                     <a class=" nav-link active text-dark" href="../page/project.php">Project</a>
