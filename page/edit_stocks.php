@@ -73,7 +73,7 @@
                                         <td>ไม่มีฝาปิด</td>
                                         <td>จัดเก็บ</td>
                                         <td>
-                                            <button type="button" class="btn btn-success">แก้ไข</button>
+                                            <button type="button" class="btn btn-warning">แก้ไข</button>
                                             <button type="button" class="btn btn-danger">ลบ</button>
                                         </td>
                                     </tr>
@@ -84,7 +84,7 @@
                                         <td></td>
                                         <td>เบิกจ่าย</td>
                                         <td>
-                                            <button type="button" class="btn btn-success">แก้ไข</button>
+                                            <button type="button" class="btn btn-warning">แก้ไข</button>
                                             <button type="button" class="btn btn-danger">ลบ</button>
                                         </td>>
                                     </tr>
