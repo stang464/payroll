@@ -15,12 +15,16 @@
     <?php
     include('../component/nevbar.php')
     ?>
-    <?php
-    include('../component/sidebar.php')
-    ?>
-    <div class='main'>
-        <div class="row ml-5 mt-5">
-            <div class="col-11 ml-2">
+    <div class="container-fluid">
+
+<h5>Employees</h5>
+<div class="row">
+    <div class="col-2">
+        <?php include('../component/sidebar.php') ?>
+    </div>
+    <main role="main" class="col-md-10 ml-sm-auto col-lg-10 px-md-4">
+        <div class="card">
+            <div class="col-auto mt-2">
                 <h5 class="card-header">ประวัติการเข้าร่วม</h5>
                 <div class="card">
                     <div class="card-body">

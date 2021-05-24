@@ -25,7 +25,7 @@
             <main role="main" class="col-md-10 ml-sm-auto col-lg-10 px-md-4">
                 <div class="card">
                     <div class="col-auto mt-2">
-                        <h5 class="card-header">เพิ่มรายการจัดอบรมพนักงาน</h5>
+                        <h5 class="card-header">เบิกประกันสุขภาพ</h5>
                         <div class="card-body">
                             <div class="row">
                             </div>
@@ -38,32 +38,32 @@
                                 </div>
                                 <div class="col-2">
                                     <div class="form-group">
-                                        <label>เวลาเริ่มอบรม</label>
-                                        <input type="time" class="form-control">
+                                        <label>ชื่อ</label>
+                                        <input type="text" class="form-control">
                                     </div>
                                 </div>
                                 <div class="col-2">
                                     <div class="form-group">
-                                        <label>เวลาจบการอบรม</label>
-                                        <input type="time" class="form-control">
+                                        <label>นามสกุล</label>
+                                        <input type="text" class="form-control">
                                     </div>
                                 </div>
                                 <div class="col-3">
                                     <div class="form-group">
-                                        <label>รายการ</label>
+                                        <label>ประเภทการขอประกัน</label>
                                         <input type="lastnameth" class="form-control">
                                     </div>
                                 </div>
                                 <div class="col-3">
                                     <div class="form-group">
-                                        <label>ฝ่ายที่เข้าร่วม</label>
+                                        <label>รายละเอียด</label>
                                         <input type="lastnameth" class="form-control">
                                     </div>
                                 </div>
                                 <div class="col-3">
                                     <div class="form-group">
-                                        <label>เพิ่มเติม</label>
-                                        <input type="lastnameth" class="form-control">
+                                        <label>เอกสารที่เกี่ยวข้อง</label>
+                                        <input type="file" class="form-control-file border">
                                     </div>
                                 </div>
                             </div>
