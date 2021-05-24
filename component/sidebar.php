@@ -31,6 +31,7 @@
         <a href="../page/project.php">Project</a>
         <a href="../page/PMproject.php">PM Project</a>
         <a href="../page/report.php">Report</a>
+        <a href="../page/reported.php">Reported</a>
         <a href="../page/addproject.php">Add project</a>
         <a href="#">Contact</a>
     </div>
