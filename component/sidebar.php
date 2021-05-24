@@ -18,7 +18,6 @@
         <a href="../page/confirmleave.php">อนุมัติลางาน</a>
         <a href="../page/approve_withdraw.php">อนุมัติเบิกเงิน</a>
         <a href="../page/leave.php">ลางาน</a>
-        
         <a href="../page/salarylist.php">อนุมัติจ่ายเงินเดือน</a>
         <a href="../page/employee.php">จัดการพนักงาน</a>
         <a href="../page/borrow.php">ยืมพัสดุ</a>
