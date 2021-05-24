@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>อนุมัติวันลา</title>
     <link href="../css/bootstrap/bootstrap.css" rel="stylesheet">
 
     <link href="../css/index.css" rel="stylesheet">
@@ -19,9 +19,9 @@
     include('../component/sidebar.php')
     ?>
     <div class='main'>
-        <div class=" mt-5 ml-5">
+        <div class=" mt-5 ml-2">
 
-                <div class="col-10">
+                <div class="col-12">
                     <h5 class="card-header">อนุมัติวันลา</h5>
                         <div class="card">
                             <div class="card-body">
@@ -41,18 +41,18 @@
                                     </thead>
                                     <tbody>
                                         <tr>
-                                            <th>1</th>
-                                            <th>dev001</th>
-                                            <th>อารมณ์ ดี</th>
-                                            <th>ลาอกหัก</th>
-                                            <th>โดนแฟนทิ้งเมื่วานอยากนั่งทำใจริมทะเล</th>
-                                            <th>3</th>
-                                            <th>วันนี้</th>
-                                            <th>มะรืน</th>
-                                            <th>
+                                            <td scope="row">1</td>
+                                            <td>dev001</td>
+                                            <td>อารมณ์ ดี</td>
+                                            <td>ลาอกหัก</td>
+                                            <td>โดนแฟนทิ้งเมื่วานอยากนั่งทำใจริมทะเล</td>
+                                            <td>3</td>
+                                            <td>วันนี้</td>
+                                            <td>มะรืน</td>
+                                            <td>
                                                 <button type="button" class="btn btn-danger">บ่</button>
-                                                <button type="button" class="btn btn-success">ไปๆๆๆ</button>
-                                            </th>
+                                                <button type="button" class="btn btn-success">ไปเตอะ</button>
+                                            </td>
                                             
                                         </tr>
                                     </tbody>
