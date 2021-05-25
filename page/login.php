@@ -24,9 +24,9 @@
             </div>
 
             <!-- Login Form -->
-            <form action="index.php">
-                <input type="text" id="login" class="fadeIn second" name="login" placeholder="login">
-                <input type="password" id="login" class="fadeIn third" name="login" placeholder="password">
+            <form action="index.php" method="POST">
+                <input type="text" id="login" class="fadeIn second" name="login" placeholder="ID">
+                <input type="password" id="login" class="fadeIn third" name="password" placeholder="password">
                 <input type="submit" class="fadeIn fourth" value="Log In">
             </form>
 

@@ -11,7 +11,7 @@
 </head>
 
 <body>
-    <nav class="navbar navbar-dark sticky-top bg-secondary flex-md-nowrap p-0 shadow">
+    <nav class="navbar navbar-dark sticky-top  flex-md-nowrap p-0 shadow">
         <a class="navbar-brand col-md-3 col-lg-2 mr-0 px-3 text-dark" href="#">ChuanChom Entertainment</a>
         <ul class="mr-5 mt-1 px-3 ">
             <div >
@@ -37,5 +37,8 @@
         width: 50px;
         height: 50px;
         border-radius: 50%;
+    }
+    nav{
+        background-color: white;
     }
 </style>
