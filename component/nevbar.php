@@ -16,7 +16,7 @@
         <ul class="mr-5 mt-1 px-3 ">
             <div >
                 <img src="https://www.w3schools.com/howto/img_avatar.png" alt="" class="avatar">
-                <span class="text-light">จำเลิง</span>
+                <span class="text">จำเลิง</span>
             </div>
 
 
