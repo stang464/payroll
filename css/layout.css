@@ -1,6 +1,7 @@
 body {
     font-size: .875rem;
     background-color: rgb(226, 226, 226);
+    font-family: 'Sarabun', sans-serif;
   }
   
   .feather {
@@ -12,7 +13,9 @@ body {
   /*
    * Sidebar
    */
-  
+   .card {
+    border-radius: 10px;
+  }
   .sidebar {
     position: fixed;
     top: 0;
@@ -102,6 +105,9 @@ body {
     border-color: transparent;
     box-shadow: 0 0 0 3px rgba(255, 255, 255, .25);
   }
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Sarabun:wght@100&display=swap');
 
 
   

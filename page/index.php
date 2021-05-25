@@ -29,7 +29,7 @@
             <main role="main" class="col-md-10 ml-sm-auto col-lg-10 px-md-4 mt-3">
                 <div class="row ">
                     <div class="col-auto">
-                        <div class="card">
+                        <div class="card shadow">
                             <div class="row m-2">
                                 <div class="mr-auto">
                                     <img src="../asset/round-clock-icon-7486.png" alt="" class="img-fluid logo " style="width:70px">
@@ -42,7 +42,7 @@
                         </div>
                     </div>
                     <div class="col-auto">
-                        <div class="card ml-2">
+                        <div class="card shadow ml-2">
                             <div class="row m-2">
                                 <div class="">
                                     <img src="../asset/thb_icon.png" alt="" class="logo">
@@ -57,7 +57,7 @@
 
 
                     <div class="col-auto">
-                        <div class="card col-12 ">
+                        <div class="card shadow col-12 ">
                             <div class="row">
                                 <div class="col-auto m-2 ml">
                                     <h3>5 วัน</h3>
@@ -67,16 +67,12 @@
                         </div>
                     </div>
 
-
-
-
-
                 </div>
 
 
 
                 <div class="row  mt-3">
-                    <div class="card col-6">
+                    <div class="card shadow col-6">
                         <div class="row ">
                             <div class="col-12 mt-3">
                                 <h3>งานที่ได้รับมอบหมาย</h3>
@@ -112,7 +108,7 @@
                         </div>
                     </div>
                     <div class="col-auto"></div>
-                    <div class="card col-5">
+                    <div class="card shadow col-5">
                         <div class="row">
                             <div class="col-12 mt-3">
                                 <h3>อบรม</h3>
@@ -134,6 +130,7 @@
                                             <td>30-25-21</td>
                                             <td>10.00-17.00</td>
                                         </tr>
+                                        
                                     </tbody>
                                 </table>
                             </div>
@@ -142,8 +139,8 @@
                 </div>
                 <div class="row mt-3">
 
-                    <div class="card col-6">
-                        <div class="col-12 mt-3">
+                    <div class="card col-6 shadow">
+                        <div class="col-12 mt-3 ">
                             <h3>ประกาศ</h3>
                         </div>
                       
@@ -151,7 +148,11 @@
                             <tbody>
                                 <tr>
                                     <th>วันนี้งดใช้ห้องน้ำเพราะล้างไม่เสร็จ</th>
-                                    <th>25 พฤษภาคท 2564</th>
+                                    <th>25 พฤษภาคม 2564</th>
+                                </tr>
+                                <tr>
+                                    <th>เงินเดือนไม่ออกนะจากบอส</th>
+                                    <th>25 พฤษภาคม 2564</th>
                                 </tr>
                             </tbody>
 
@@ -176,9 +177,7 @@
 </html>
 
 <style>
-    .card {
-        border-radius: 10px;
-    }
+    
 
     .logo {
         width: 70px;
