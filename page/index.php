@@ -27,71 +27,144 @@
             </div>
 
             <main role="main" class="col-md-10 ml-sm-auto col-lg-10 px-md-4 mt-3">
-                <div class="card col-2">
-                    <div class="row m-2">
-                        <div class="mr-auto">
-                            <img src="../asset/round-clock-icon-7486.png" alt="" class="img-fluid logo " style="width:70px">
-                        </div>
-                        <div class="ml-auto">
-                            <h3>8 Hr.</h3>
-                            <span>เวลาทำงาน</span>
+                <div class="row ">
+                    <div class="col-auto">
+                        <div class="card">
+                            <div class="row m-2">
+                                <div class="mr-auto">
+                                    <img src="../asset/round-clock-icon-7486.png" alt="" class="img-fluid logo " style="width:70px">
+                                </div>
+                                <div class="ml-3">
+                                    <h3>8 Hr.</h3>
+                                    <span>เวลาทำงาน</span>
+                                </div>
+                            </div>
                         </div>
                     </div>
+                    <div class="col-auto">
+                        <div class="card ml-2">
+                            <div class="row m-2">
+                                <div class="">
+                                    <img src="../asset/thb_icon.png" alt="" class="logo">
+                                </div>
+                                <div class="ml-2">
+                                    <h3>฿15,820</h3>
+                                    <span>เงินเดือน เดือนนี้</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="col-auto">
+                        <div class="card col-12 ">
+                            <div class="row">
+                                <div class="col-auto m-2 ml">
+                                    <h3>5 วัน</h3>
+                                    <span>ลางานวันคงเหลือ</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+
 
 
                 </div>
 
 
 
-                <div class="card col-6 mt-3">
-                    <div class="row ">
+                <div class="row  mt-3">
+                    <div class="card col-6">
+                        <div class="row ">
+                            <div class="col-12 mt-3">
+                                <h3>งานที่ได้รับมอบหมาย</h3>
+                            </div>
+                        </div>
+
+                        <hr>
+                        <div class="row">
+                            <div class="col-12">
+                                <table class="table table-hover table-bordered text-center">
+                                    <thead>
+                                        <th>Project</th>
+                                        <th>เริ่มวันที่</th>
+                                        <th>ส่ง</th>
+                                        <th>รายละเอียด</th>
+                                        <th>จัดการ</th>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <th>ล้างห้องน้ำ</th>
+                                            <th>22-5-21</th>
+                                            <th>22-5-21</th>
+                                            <th>ล้างชั้น 2 - 3</th>
+                                            <th>
+                                                <a href="" class="btn btn-sm btn-primary " title="รายละเอียด"><i class="bi bi-justify"></i></a>
+                                                <a href="" class="btn btn-sm btn-warning " title="update"><i class="bi bi-clipboard"></i></a>
+                                                <a href="" class="btn btn-sm btn-success" title="สำเร็จ"><i class="bi bi-check2"></i></a>
+                                            </th>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-auto"></div>
+                    <div class="card col-5">
+                        <div class="row">
+                            <div class="col-12 mt-3">
+                                <h3>อบรม</h3>
+                            </div>
+
+                        </div>
+                        <hr>
+                        <div class="row">
+                            <div class="col-12">
+                                <table class="col-12 table table-bordered  table-hover text-center">
+                                    <thead>
+                                        <th>ชื่อ</th>
+                                        <th>วันที่</th>
+                                        <th>เวลา</th>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>ล้างห้องน้ำยังไงให้ไม่เปียก</td>
+                                            <td>30-25-21</td>
+                                            <td>10.00-17.00</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row mt-3">
+
+                    <div class="card col-6">
                         <div class="col-12 mt-3">
-                            <h3>งานที่ได้รับมอบหมาย</h3>
+                            <h3>ประกาศ</h3>
                         </div>
+                      
+                        <table class="table table-hover">
+                            <tbody>
+                                <tr>
+                                    <th>วันนี้งดใช้ห้องน้ำเพราะล้างไม่เสร็จ</th>
+                                    <th>25 พฤษภาคท 2564</th>
+                                </tr>
+                            </tbody>
+
+                        </table>
                     </div>
-
-                    <hr>
-                    <div class="row">
-                        <div class="col-12">
-                            <table class="table table-hover table-bordered text-center">
-                                <thead>
-                                    <th>Project</th>
-                                    <th>เริ่มวันที่</th>
-                                    <th>ส่ง</th>
-                                    <th>รายละเอียด</th>
-                                    <th>จัดการ</th>
-                                </thead>
-                                <tbody>
-                                    <tr>
-                                        <th>ล้างห้องน้ำ</th>
-                                        <th>22-5-21</th>
-                                        <th>22-5-21</th>
-                                        <th>ล้างชั้น 2 - 3</th>
-                                        <th>
-                                            <a href="" class="btn btn-sm btn-primary " title="รายละเอียด"><i class="bi bi-justify"></i></a>
-                                            <a href="" class="btn btn-sm btn-warning " title="update"><i class="bi bi-clipboard"></i></a>
-                                            <a href="" class="btn btn-sm btn-success" title="สำเร็จ"><i class="bi bi-check2"></i></a>
-
-                                        </th>
-                                    </tr>
-                                </tbody>
-                            </table>
-                        </div>
-
-                    </div>
-
-
-
-
-
 
                 </div>
             </main>
+
+
         </div>
 
     </div>
-
-
 
 
 
