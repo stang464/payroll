@@ -13,8 +13,8 @@
 <body>
     <nav class="navbar navbar-dark sticky-top  flex-md-nowrap p-0 shadow">
         <div class="navbar-brand">
-            <img src="../asset/logo.png" alt="" width="50px">
-            <a class="navbar-brand col-md-3 col-lg-2 mr-0 px-3 text-dark" href="#">ChuanChom Entertainment</a>
+            <a href=""><img src="../asset/logo.png" alt="" width="50px"></a>
+            <a class="navbar-brand col-md-3 col-lg-2 mr-0 px-3 text-dark" href="index.php">ChuanChom Entertainment</a>
         </div>
 
         <ul class="mr-5 mt-1 px-3 ">
