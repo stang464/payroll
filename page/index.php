@@ -111,9 +111,8 @@
                     <div class="card shadow col-5">
                         <div class="row">
                             <div class="col-12 mt-3">
-                                <h3>อบรม</h3>
+                                <h3>กำหนดการอบรม</h3>
                             </div>
-
                         </div>
                         <hr>
                         <div class="row">

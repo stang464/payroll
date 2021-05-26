@@ -26,6 +26,9 @@
                     <a class=" nav-link active text-dark" href="../page/withdraw.php">เบิกเงิน</a>
                 </li>
                 <li class="nav-item">
+                    <a class=" nav-link active text-dark" href="../page/salarylist.php">อนุมัติเงินเดือน</a>
+                </li>
+                <li class="nav-item">
                     <a class=" nav-link active text-dark" href="../page/confirmleave.php">อนุมัติลางาน</a>
                 </li>
                 <li class="nev-item">
